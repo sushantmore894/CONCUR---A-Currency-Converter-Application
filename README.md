@@ -40,7 +40,10 @@ Implement your changes and commit them: git commit -m "Add your message here"
 Push the changes to your branch: git push origin feature/your-feature-name
 Create a pull request describing your changes and the improvements they bring.
 
-## Screenshot
+## Screenshots
+1. 
+![s1](https://github.com/sushantmore894/CONCUR-A_Currency_Converter_Application/assets/109810660/0e7dbb81-40ac-407b-a771-5ba35a90542e)
+
 
 
 Contact
